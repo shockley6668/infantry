@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/mbny/Documents/omni-infantry/omni-infantry/infantry -B /Users/mbny/Documents/omni-infantry/omni-infantry/infantry/cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/mbny/Documents/omni-infantry/omni-infantry/infantry/cmake-build-debug
